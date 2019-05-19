@@ -11,3 +11,7 @@ This allows the current user to execute the file (script).
 
 
 Following tutorial found [here](https://www.youtube.com/watch?v=eLTLtUVuuy4&t=503s).
+
+## Preview
+
+![road tracking example](https://raw.githubusercontent.com/Cotters/RoadTracking-OpenCV/master/road_tracking_exmaple.png)
